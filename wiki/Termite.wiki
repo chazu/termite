@@ -5,7 +5,7 @@ computing. It offers a simple and powerful concurrency model,
 inspired by the Erlang programming language, which is based on a
 message-passing model of concurrency.
 
-It runs on top of [http://www.iro.umontreal.ca/~gambit Gambit-C], a very nice Scheme system developed by Marc Feeley at Universite de Montreal.
+It runs on top of [http://www.iro.umontreal.ca/~gambit Gambit-C], a very nice Scheme system developed by Marc Feeley at Université de Montréal.
 
 = Details =
 
